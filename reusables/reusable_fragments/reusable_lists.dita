@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reusable_lists">
+    <title>Reusable lists</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>
+            <ul id="ski_equipments_list">
+                <li>ski</li>
+                <li platform="Alpine_skiing Cross_country_skiing">ski poles</li>
+                <li>ski boots</li>
+                <li platform="Alpine_skiing Ski_jumping">helmet</li>
+                <li platform="Alpine_skiing Ski_jumping">ski goggles</li>
+                <li>gloves</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

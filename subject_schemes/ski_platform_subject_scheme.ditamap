@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd">
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle><!--Ski platform Subject Scheme--></navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance>
+        <subjectdef keys="skiPlatformKey"><!-- A tree of related values ¨-->
+            <subjectdef keys="Alpine_skiing"/>
+            <subjectdef keys="Cross_country_skiing">
+                <subjectdef keys="Classic"/>
+                <subjectdef keys="Skate"/>
+                <subjectdef keys="supiny"/>
+            </subjectdef>
+            <subjectdef keys="Ski_jumping"/></subjectdef>
+    </hasInstance>
+    <enumerationdef>
+        <!-- Bind an attribute to a tree of related values -->
+        <attributedef name="platform"/>
+        <subjectdef keyref="skiPlatformKey"/>
+    </enumerationdef>
+</subjectScheme>

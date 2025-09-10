@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<publishing-template>
+    <name>ski_platform_dynamic_filtering_publishing_template</name>
+    <description></description>
+    <webhelp>
+        <preview-image file="ashes-tiles.png"/>
+        <html-page-layout-files>
+            <page-layout-file page="search" file="page-templates/wt_search.html"/>
+            <page-layout-file page="topic" file="page-templates/wt_topic.html"/>
+            <page-layout-file page="main" file="page-templates/wt_index.html"/>
+            <page-layout-file page="index-terms" file="page-templates/wt_terms.html"/>
+        </html-page-layout-files>
+        <parameters>
+            <parameter name="webhelp.show.main.page.tiles" value="yes"/>
+            <parameter name="webhelp.show.main.page.toc" value="no"/>
+            <parameter name="webhelp.top.menu.depth" value="3"/>
+            <parameter name="args.figurelink.style" value="TITLE"/>
+            <parameter name="args.tablelink.style" value="TITLE"/>
+            <parameter name="force-unique" value="true"/>
+        </parameters>
+        <resources>
+            <css file="ashes.css"/>
+            <css file="notes.css"/>
+            <fileset>
+                <include name="js/**"/>
+            </fileset>
+        </resources>
+        <online-preview-url>https://www.oxygenxml.com/samples/DITA-WebHelp-Responsive/tiles/ashes/</online-preview-url>
+        <tags>
+            <tag type="layout">tiles</tag>
+            <tag type="color">dark</tag>
+        </tags>
+        <html-fragments>
+            <fragment file="fragments/dynamic_search_filter_script_fragment.xml" placeholder="webhelp.fragment.head.search.page"/>
+        </html-fragments>
+    </webhelp>
+</publishing-template>

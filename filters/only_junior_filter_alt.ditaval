@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop action="exclude" att="audience" val="Hobby"/>
+    <prop action="exclude" att="audience" val="Athlete "/>
+    <prop action="exclude" att="audience" val="Senior"/>
+    <prop action="exclude" att="audience" val="Athlete Senior"/>
+    <prop action="include" att="audience" val="Junior"/>
+    <prop action="flag" att="audience" val="general"/>
+</val>

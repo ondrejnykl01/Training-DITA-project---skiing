@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_start_skiing">
+    <title>How to start skiing</title>
+    <shortdesc>Step-by-step guidance on how to start skiing for the first time.</shortdesc>
+    <taskbody>
+        <context>These guidelines are meant for complete beginners as they are focused on taking on
+            ski equipment. If you are already familiar with such procedures and want to improve your
+            skiing skills, search for other topics.</context>
+        <steps>
+            <step>
+                <cmd>Prepare all the necessary skiing equipments:</cmd>
+                <ul conkeyref="reusable_lists/ski_equipments_list" id="ul_ng2_pdq_fgc">
+                    <li/>
+                </ul>
+            </step>
+            <step>
+                <cmd>Take on your ski boots.</cmd>
+            </step>
+            <step platform="Ski_jumping">
+                <cmd>Check that the binding is in the step mode.</cmd>
+            </step>
+            <step>
+                <cmd>Put your ski boot into the binding.</cmd>
+            </step>
+            <step platform="Alpine_skiing">
+                <cmd>Push the tip of your boot to the front part of the binding and click the heel
+                    to the back part of the binding.<image placement="break"
+                        href="../images/alpine_ski_binding.jpg" id="image_os4_sgq_fgc" scale="35"
+                    /></cmd>
+                <note>Don't hesitate to use some force.</note>
+            </step>
+            <step platform="Cross_country_skiing">
+                <cmd>Click the tip of your boot to the front part of the binding.<image
+                        placement="break" href="../images/cross_country_ski_binding.jpeg"
+                        id="image_jzm_llq_fgc" scale="50"/></cmd>
+               <note>You can use your hand to hold the ski and pre-open the binding.</note> 
+            </step>
+            <step platform="Ski_jumping">
+                <cmd>Position your boot into the binding and click the lock up your heel by your
+                        hand.<image placement="break" href="../images/ski_jumping_binding.jpg"
+                        id="image_qqb_3mq_fgc" scale="18"/></cmd>
+            </step>
+            <step platform="Alpine_skiing Ski_jumping">
+                <cmd>Put on the ski goggles.</cmd>
+            </step>
+            <step>
+                <cmd>Put the gloves on.</cmd>
+            </step>
+            <step platform="Alpine_skiing Ski_jumping">
+                <cmd>Take on the helmet.</cmd>
+            </step>
+            <step platform="Alpine_skiing Cross_country_skiing">
+                <cmd>Grab the poles.</cmd>
+            </step>
+            <step>
+                <cmd>Go to the <ph platform="Alpine_skiing">slope</ph>
+                    <ph platform="Cross_country_skiing">track</ph>
+                    <ph platform="Ski_jumping">ski jump</ph> and start.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

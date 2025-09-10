@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="funicular_glossary">
+    <glossterm>funicular</glossterm>
+    <glossdef>A machine which lifts you above the terrain in a fastened seat or in an isolated
+            cabin.<image placement="break" href="../images/funicular.jpg" scale="35"
+        /></glossdef>
+</glossentry>

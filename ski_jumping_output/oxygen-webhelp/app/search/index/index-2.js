@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index2 = {"gloves":"6*10*-1$e,7*1*1g$2d","go":"7*0*2g","goggles":"6*10*-1$d,7*1*1f$2b","guidance":"7*10*-1$b","guidelines":"7*0*h","hand":"7*0*28","heel":"7*0*26","helmet":"6*10*-1$b,7*1*1d$2f","help":"4*20*2","how":"7*40*-1$0$7$c","improve":"7*0*u","isolated":"0*0*f,1*0*f,5*0*a","jump":"2*30*1$7,7*0*2i","jumping":"3*30*1$7","lifts":"0*0*9,1*0*9,5*0*4","lists":"6*30*1$7","lock":"7*0*23","machine":"0*0*7,1*0*7,5*0*2","meant":"7*0*i","mode":"7*0*1o","necessary":"7*0*17","other":"7*0*13","position":"7*0*1u","prepare":"7*0*15"};

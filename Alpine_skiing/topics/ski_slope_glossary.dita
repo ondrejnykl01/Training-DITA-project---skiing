@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ski_slope_glossary">
+    <title>Ski slope glossary</title>
+    <shortdesc>Glossary of terms necessary for understanding ski slopes.</shortdesc>
+    <refbody>
+        <table id="table_u5l_5lr_fgc">
+            <title>Slope terms</title>
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                    <row>
+                        <entry>funicular</entry>
+                        <entry>
+                         A machine which lifts you above the terrain in a fastened seat
+                                or in an isolated cabin.
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>tow</entry>
+                        <entry>Basically a machine rope with poles to catch and hold on (or fall
+                            from). </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

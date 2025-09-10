@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"Chunk605670723-d281e115":{"topics":[{"title":"funicular","href":"Chunk605670723.html#funicular_glossary","attributes":{"data-id":"funicular_glossary"},"menu":{"hasChildren":false},"tocID":"funicular_glossary-d281e123","topics":[]}]}};

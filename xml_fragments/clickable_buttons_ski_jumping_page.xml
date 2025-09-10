@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fragment>
+<div style="position:absolute;top:10px;right:10px;z-index:1000;">
+    <a href="https://storage.googleapis.com/cross_country_skiing_switching_test/Cross_country_skiing_output/index.html" class="custom-nav-btn">Cross-Country Skiing</a>
+    <a href="https://storage.googleapis.com/alpine_skiing_switching_test/Alpin_skiing_output/index.html" class="custom-nav-btn">Alpine Skiing</a>
+</div>
+<style>
+    .custom-nav-btn {
+    margin-left: 10px;
+    padding: 6px 12px;
+    background: #0073e6;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    }
+    .custom-nav-btn:hover {
+    background: #005bb5;
+    }
+</style>
+</fragment>
