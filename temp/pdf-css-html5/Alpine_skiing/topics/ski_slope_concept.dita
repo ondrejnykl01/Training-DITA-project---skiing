@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\Alpine_skiing\topics?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/Alpine_skiing/topics/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="ski_slope_concept" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="concept:1;3:33" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="title:1;4:12">Ski slope</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="shortdesc:1;5:16">What is ski slope in general.</shortdesc>
+    <prolog class="- topic/prolog " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="prolog:1;6:13">
+        <metadata class="- topic/metadata " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="metadata:1;7:19">
+            <keywords class="- topic/keywords " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="keywords:1;8:23">
+                <keyword class="- topic/keyword " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="keyword:1;9:26">Alpine_skiing</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="conbody:1;13:14">
+        <p class="- topic/p " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="p:1;14:12">Ski slope is usually part of a hill. It is specifically designated for skiing. Therefore
+            you will find no trees in its area and the snow covering it should be plowed by a
+            snowplow, according to ski resort best practices. <image placement="break" href="../images/mansestr.jpg" id="image_mtd_thr_fgc" scale="70" class="- topic/image " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="image:1;17:82"/></p>
+        <p class="- topic/p " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="p:2;18:12">To get to the top of the slope, you can usually use some kind of tow or a <xref keyref="funicular_glossary_key" class="- topic/xref " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="xref:1;19:50"/>. </p>
+        <p class="- topic/p " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_concept.dita" xtrc="p:3;20:12">The difficulty of a particular slope is measured in color - blue ones are the easiest,
+            red ones are medium and black are holes which you can try only once and nobody sees you
+            ever again.  Great for escaping from inconvenient situations with other skiers...</p>
+    </conbody>
+</concept>

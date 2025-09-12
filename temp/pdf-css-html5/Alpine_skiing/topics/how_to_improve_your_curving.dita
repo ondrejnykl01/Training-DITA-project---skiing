@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\Alpine_skiing\topics?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/Alpine_skiing/topics/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="how_to_improve_your_curving" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="task:1;3:40" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="title:1;4:12">How to improve your curving</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="shortdesc:1;5:16">Simple step-by-step guidance on how to make your curving work, at least a
+        bit...</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="context:1;8:18">This procedure will help you improve your curving technique if you have already
+            tried it and know the basic idea behind it, but when on the slope, you are still somehow
+            unable to perform it well. To get familiar with the concept of curving technique itself,
+            please find the another topic.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="steps:1;12:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="step:1;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="cmd:1;14:22">Don't start on some easy peasy slope to train a bit. Instead, pick the blackest
+                    slope you see around you, as curving simply work only from a certain degree of
+                    tilt.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="step:2;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="cmd:2;19:22">Start skiing, gain some speed, but keep your curves well-managed and
+                    long-shaped.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="step:3;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="cmd:3;23:22">Stop trying to work out your curves only by thee work of your legs and knees.
+                    Instead. try to incline your whole body on the slope surface, while keeping the
+                    axis of your body as straight as possible.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="step:4;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="cmd:4;28:22">Push your body closer and closer to the surface with every new curve. In the
+                    end, imagine that you want to slap the slope with your elbow.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="step:5;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/how_to_improve_your_curving.dita" xtrc="cmd:5;32:22">If you succeed in it, you will definitely feel the edges of your ski cut into
+                    the snow when curving...</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
