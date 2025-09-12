@@ -10,9 +10,11 @@
         <steps>
             <step>
                 <cmd>Prepare all the necessary skiing equipments:</cmd>
-                <ul conkeyref="reusable_lists/ski_equipments_list" id="ul_ng2_pdq_fgc">
-                    <li/>
-                </ul>
+                <info>
+                    <ul conkeyref="reusable_lists/ski_equipments_list" id="ul_ng2_pdq_fgc">
+                        <li/>
+                    </ul>
+                </info> 
             </step>
             <step>
                 <cmd>Take on your ski boots.</cmd>
@@ -28,13 +30,17 @@
                     to the back part of the binding.<image placement="break"
                         href="../images/alpine_ski_binding.jpg" id="image_os4_sgq_fgc" scale="35"
                     /></cmd>
-                <note>Don't hesitate to use some force.</note>
+                <info>
+                    <note>Don't hesitate to use some force.</note>
+                </info> 
             </step>
             <step platform="Cross_country_skiing">
                 <cmd>Click the tip of your boot to the front part of the binding.<image
                         placement="break" href="../images/cross_country_ski_binding.jpeg"
                         id="image_jzm_llq_fgc" scale="50"/></cmd>
-               <note>You can use your hand to hold the ski and pre-open the binding.</note> 
+               <info>
+                    <note>You can use your hand to hold the ski and pre-open the binding.</note> 
+               </info> 
             </step>
             <step platform="Ski_jumping">
                 <cmd>Position your boot into the binding and click the lock up your heel by your

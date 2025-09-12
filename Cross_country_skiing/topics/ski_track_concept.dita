@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="ski_track">
     <title>Ski track</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Short topic on how the cross-country ski track looks like.</shortdesc>
     <prolog>
         <metadata>
             <keywords>
@@ -11,6 +11,11 @@
         </metadata>
     </prolog>
     <conbody>
-        <p></p>
+        <p>The cross-country ski track is delivered in two forms. First of them is called "classic"
+            and basically looks like two chemins d'écarts in the snow. The other one consists just
+            of plowed snow of at least 2 meters width which leads somewhere. It's called "skate
+            track". The differences of these two types are caused by the existence of two different
+            techniques of cross-country skiing. Each of the track type is dedicated to one of these
+            techniques. For more detail, please find other topics.</p>
     </conbody>
 </concept>

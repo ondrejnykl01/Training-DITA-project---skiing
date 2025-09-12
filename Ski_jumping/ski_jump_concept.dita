@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="ski_jump_concept">
     <title>Ski jump</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Very short introduction of the most important ski jumping device - ski
+        jump</shortdesc>
     <prolog>
         <metadata>
             <keywords>
@@ -11,6 +12,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <p></p>
+        <p>This is ski jump:<image placement="break" href="images/ski_jump_zaha_hadid.jpg"
+                id="image_isv_nj1_qgc" scale="20"/></p>
     </conbody>
 </concept>

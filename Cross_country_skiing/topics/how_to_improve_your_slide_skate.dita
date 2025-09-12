@@ -2,14 +2,15 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_improve_your_slide_skate">
     <title>How to improve your slide</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Short step-by-step guidance on how to improve your skate cross-country skiing
+        technique. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This procedure can help you improve your skate technique, if you already try to
+            perform it well (no šupiny or tourists welcome here), but you still feel you don't gain
+            as much as you could from it. <p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Imitate spider moves over the track.</cmd>
             </step>
         </steps>
     </taskbody>
