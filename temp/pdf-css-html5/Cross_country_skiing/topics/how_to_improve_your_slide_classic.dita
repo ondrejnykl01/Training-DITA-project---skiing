@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\Cross_country_skiing\topics?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/Cross_country_skiing/topics/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="how_to_improve_your_slide_classic" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="task:1;3:46" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="title:1;4:12">How to improve your slide</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="shortdesc:1;5:16">Short step-by-step guidance on how to improve your classic cross-country skiing
+        technique.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="context:1;8:18">This procedure can help you improve your classical technique, if you already try to
+            perform it well (no šupiny or tourists welcome here), but you still feel you don't gain
+            as much as you could from it.<p class="- topic/p " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="p:1;10:46"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="steps:1;11:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="step:1;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="cmd:1;13:22">Bend your body to approximately 60 degrees over the track.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="cmd:2;16:22">One hand with a pole forward, the opposite leg back.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="step:3;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Cross_country_skiing/topics/how_to_improve_your_slide_classic.dita" xtrc="cmd:3;19:22">Repeat.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

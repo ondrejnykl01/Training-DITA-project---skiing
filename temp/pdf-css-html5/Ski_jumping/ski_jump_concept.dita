@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\Ski_jumping?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/Ski_jumping/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="ski_jump_concept" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="concept:1;3:32" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="title:1;4:12">Ski jump</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="shortdesc:1;5:16">Very short introduction of the most important ski jumping device - ski
+        jump</shortdesc>
+    <prolog class="- topic/prolog " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="prolog:1;7:13">
+        <metadata class="- topic/metadata " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="metadata:1;8:19">
+            <keywords class="- topic/keywords " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="keywords:1;9:23">
+                <keyword class="- topic/keyword " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="keyword:1;10:26">Ski_jumping</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="conbody:1;14:14">
+        <p class="- topic/p " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="p:1;15:12">This is ski jump:<image placement="break" href="images/ski_jump_zaha_hadid.jpg" id="image_isv_nj1_qgc" scale="20" class="- topic/image " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Ski_jumping/ski_jump_concept.dita" xtrc="image:1;16:52"/></p>
+    </conbody>
+</concept>

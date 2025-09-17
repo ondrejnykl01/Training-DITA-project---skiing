@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_improve_your_slide_classic">
+    <title>How to improve your slide</title>
+    <shortdesc>Short step-by-step guidance on how to improve your classic cross-country skiing
+        technique.</shortdesc>
+    <taskbody>
+        <context>This procedure can help you improve your classical technique, if you already try to
+            perform it well (no šupiny or tourists welcome here), but you still feel you don't gain
+            as much as you could from it.<p/></context>
+        <steps>
+            <step>
+                <cmd>Bend your body to approximately 60 degrees over the track.</cmd>
+            </step>
+            <step>
+                <cmd>One hand with a pole forward, the opposite leg back.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

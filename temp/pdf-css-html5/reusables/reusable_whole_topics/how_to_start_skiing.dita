@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\reusables\reusable_whole_topics?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/reusables/reusable_whole_topics/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="how_to_start_skiing" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="task:1;3:32" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="title:1;4:12">How to start skiing</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="shortdesc:1;5:16">Step-by-step guidance on how to start skiing for the first time.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="context:1;7:18">These guidelines are meant for complete beginners as they are focused on taking on
+            ski equipment. If you are already familiar with such procedures and want to improve your
+            skiing skills, search for other topics.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:1;12:22">Prepare all the necessary skiing equipments:</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="info:1;13:23">
+                    <ul conkeyref="reusable_lists/ski_equipments_list" id="ul_ng2_pdq_fgc" class="- topic/ul " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="ul:1;14:92">
+                        <li class="- topic/li " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="li:1;15:30"/>
+                    </ul>
+                </info> 
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:2;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:2;20:22">Take on your ski boots.</cmd>
+            </step>
+            <step platform="Ski_jumping" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:3;22:42">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:3;23:22">Check that the binding is in the step mode.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:4;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:4;26:22">Put your ski boot into the binding.</cmd>
+            </step>
+            <step platform="Alpine_skiing" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:5;28:44">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:5;29:22">Push the tip of your boot to the front part of the binding and click the heel
+                    to the back part of the binding.<image placement="break" href="../images/alpine_ski_binding.jpg" id="image_os4_sgq_fgc" scale="35" class="- topic/image " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="image:1;32:23"/></cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="info:2;33:23">
+                    <note class="- topic/note " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="note:1;34:27">Don't hesitate to use some force.</note>
+                </info> 
+            </step>
+            <step platform="Cross_country_skiing" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:6;37:51">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:6;38:22">Click the tip of your boot to the front part of the binding.<image placement="break" href="../images/cross_country_ski_binding.jpeg" id="image_jzm_llq_fgc" scale="50" class="- topic/image " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="image:2;40:60"/></cmd>
+               <info class="- topic/itemgroup task/info " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="info:3;41:22">
+                    <note class="- topic/note " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="note:2;42:27">You can use your hand to hold the ski and pre-open the binding.</note> 
+               </info> 
+            </step>
+            <step platform="Ski_jumping" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:7;45:42">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:7;46:22">Position your boot into the binding and click the lock up your heel by your
+                        hand.<image placement="break" href="../images/ski_jumping_binding.jpg" id="image_qqb_3mq_fgc" scale="18" class="- topic/image " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="image:3;48:60"/></cmd>
+            </step>
+            <step platform="Alpine_skiing Ski_jumping" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:8;50:56">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:8;51:22">Put on the ski goggles.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:9;53:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:9;54:22">Put the gloves on.</cmd>
+            </step>
+            <step platform="Alpine_skiing Ski_jumping" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:10;56:56">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:10;57:22">Take on the helmet.</cmd>
+            </step>
+            <step platform="Alpine_skiing Cross_country_skiing" class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:11;59:65">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:11;60:22">Grab the poles.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="step:12;62:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="cmd:12;63:22">Go to the <ph platform="Alpine_skiing" class="- topic/ph " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="ph:1;63:61">slope</ph>
+                    <ph platform="Cross_country_skiing" class="- topic/ph " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="ph:2;64:57">track</ph>
+                    <ph platform="Ski_jumping" class="- topic/ph " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/reusables/reusable_whole_topics/how_to_start_skiing.dita" xtrc="ph:3;65:48">ski jump</ph> and start.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="alpine_skiing_stem"
+               path="Alpine_skiing/stem_topics/alpine_skiing_stem.html"/>
+   <appContext helpID="how_to_improve_your_curving"
+               path="Alpine_skiing/topics/how_to_improve_your_curving.html"/>
+   <appContext helpID="differences_between_slalom_and_giant_slalom"
+               path="Alpine_skiing/topics/differences_between_slalom_and_giant_slalom.html"/>
+   <appContext helpID="Chunk1072924239" path="Chunk1072924239.html"/>
+   <appContext helpID="funicular_glossary"
+               path="Chunk1072924239.html#funicular_glossary"/>
+</map>

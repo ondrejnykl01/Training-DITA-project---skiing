@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\subject_schemes?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/subject_schemes/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Subject Scheme Map//EN?><?doctype-system subjectScheme.dtd?><subjectScheme xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" processing-role="resource-only" toc="no" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map subjectScheme) a(props deliveryTarget) (topic hazard-d) (topic hi-d) (topic ut-d)" class="- map/map subjectScheme/subjectScheme " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectScheme:1;3:16" cascade="merge" specializations="@props/deliveryTarget">
+    <subjectHead linking="normal" class="- map/topicref subjectScheme/subjectHead " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectHead:1;4:18">
+        <subjectHeadMeta class="- map/topicmeta subjectScheme/subjectHeadMeta " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectHeadMeta:1;5:26">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="navtitle:1;6:23">
+                
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance class="- map/topicref subjectScheme/hasInstance " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="hasInstance:1;11:18">
+        <subjectdef keys="skiPlatformKey" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:1;12:43">
+            
+            <subjectdef keys="Alpine_skiing" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:2;14:47"/>
+            <subjectdef keys="Cross_country_skiing" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:3;15:53">
+                <subjectdef keys="Classic" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:4;16:45"/>
+                <subjectdef keys="Skate" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:5;17:43"/>
+            </subjectdef>
+            <subjectdef keys="Ski_jumping" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:6;19:45"/>
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="enumerationdef:1;22:21">
+        
+        <attributedef name="platform" translate="no" class="- topic/data subjectScheme/attributedef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="attributedef:1;24:40"/>
+        <subjectdef keyref="skiPlatformKey" class="- map/topicref subjectScheme/subjectdef " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/subject_schemes/ski_platform_subject_scheme_alt.ditamap" xtrc="subjectdef:7;25:46"/>
+    </enumerationdef>
+</subjectScheme>

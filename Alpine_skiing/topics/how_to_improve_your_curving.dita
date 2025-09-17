@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_improve_your_curving">
+    <title>How to improve your curving</title>
+    <shortdesc>Simple step-by-step guidance on how to make your curving work, at least a
+        bit...</shortdesc>
+    <taskbody>
+        <context>This procedure will help you improve your curving technique if you have already
+            tried it and know the basic idea behind it, but when on the slope, you are still somehow
+            unable to perform it well. To get familiar with the concept of curving technique itself,
+            please find the another topic.</context>
+        <steps>
+            <step>
+                <cmd>Don't start on some easy peasy slope to train a bit. Instead, pick the blackest
+                    slope you see around you, as curving simply work only from a certain degree of
+                    tilt.</cmd>
+            </step>
+            <step>
+                <cmd>Start skiing, gain some speed, but keep your curves well-managed and
+                    long-shaped.</cmd>
+            </step>
+            <step>
+                <cmd>Stop trying to work out your curves only by thee work of your legs and knees.
+                    Instead. try to incline your whole body on the slope surface, while keeping the
+                    axis of your body as straight as possible.</cmd>
+            </step>
+            <step>
+                <cmd>Push your body closer and closer to the surface with every new curve. In the
+                    end, imagine that you want to slap the slope with your elbow.</cmd>
+            </step>
+            <step>
+                <cmd>If you succeed in it, you will definitely feel the edges of your ski cut into
+                    the snow when curving...</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

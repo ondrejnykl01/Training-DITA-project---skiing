@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ski_slope_concept">
+    <title>Ski slope</title>
+    <shortdesc>What is ski slope in general.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Alpine_skiing</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Ski slope is usually part of a hill. It is specifically designated for skiing. Therefore
+            you will find no trees in its area and the snow covering it should be plowed by a
+            snowplow, according to ski resort best practices. <image placement="break"
+                href="../images/mansestr.jpg" id="image_mtd_thr_fgc" scale="70"/></p>
+        <p>To get to the top of the slope, you can usually use some kind of tow or a <xref
+                keyref="funicular_glossary_key"/>. </p>
+        <p>The difficulty of a particular slope is measured in color - blue ones are the easiest,
+            red ones are medium and black are holes which you can try only once and nobody sees you
+            ever again.  Great for escaping from inconvenient situations with other skiers...</p>
+    </conbody>
+</concept>

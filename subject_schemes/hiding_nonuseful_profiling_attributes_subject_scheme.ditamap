@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle><!--Nonuseful attributes--></navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance>
+        <subjectdef><!-- A tree of related values --></subjectdef>
+    </hasInstance>
+    <enumerationdef>
+        <!-- Bind an attribute to a tree of related values -->
+        <attributedef name="product"/>
+        <subjectdef/>
+    </enumerationdef>
+    <enumerationdef>
+        <attributedef name="revision"/>
+        <subjectdef/>
+    </enumerationdef>
+    <enumerationdef>
+        <attributedef name="props"/>
+        <subjectdef/>
+    </enumerationdef>
+</subjectScheme>

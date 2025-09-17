@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="ski_jumping_stem"
+               path="Ski_jumping/stem_topics/ski_jumping_stem.html"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="ski_jump_concept" path="Ski_jumping/ski_jump_concept.html"/>
+   <appContext helpID="Chunk780200793" path="Chunk780200793.html"/>
+   <appContext helpID="funicular_glossary"
+               path="Chunk780200793.html#funicular_glossary"/>
+</map>

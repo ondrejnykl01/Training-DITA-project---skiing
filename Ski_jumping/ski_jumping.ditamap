@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Ski jumping</mainbooktitle>
+    </booktitle>
+    <chapter href="stem_topics/ski_jumping_stem.dita">
+        <topicref href="../reusables/reusable_whole_topics/how_to_start_skiing.dita"/>
+        <topicref href="ski_jump_concept.dita"/>
+    </chapter>
+</bookmap>

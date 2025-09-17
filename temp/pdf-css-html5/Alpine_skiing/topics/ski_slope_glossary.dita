@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\AI job\Skiing_oxygen_project\temp\pdf-css-html5\Alpine_skiing\topics?><?workdir-uri file:/C:/AI%20job/Skiing_oxygen_project/temp/pdf-css-html5/Alpine_skiing/topics/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="ski_slope_glossary" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="reference:1;3:36" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="title:1;4:12">Ski slope glossary</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="shortdesc:1;5:16">Glossary of terms necessary for understanding ski slopes.</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="refbody:1;6:14">
+        <table id="table_u5l_5lr_fgc" class="- topic/table " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="table:1;7:39">
+            <title class="- topic/title " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="title:2;8:20">Slope terms</title>
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="tgroup:1;9:30">
+                <colspec colnum="1" colname="c1" class="- topic/colspec " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="colspec:1;10:51"/>
+                <colspec colnum="2" colname="c2" class="- topic/colspec " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="colspec:2;11:51"/>
+                <tbody class="- topic/tbody " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="tbody:1;12:24">
+                    <row class="- topic/row " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="row:1;13:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="entry:1;14:32">funicular</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="entry:2;15:32">
+                         A machine which lifts you above the terrain in a fastened seat
+                                or in an isolated cabin.
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="row:2;20:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="entry:3;21:32">tow</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/AI%20job/Skiing_oxygen_project/Alpine_skiing/topics/ski_slope_glossary.dita" xtrc="entry:4;22:32">Basically a machine rope with poles to catch and hold on (or fall
+                            from). </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

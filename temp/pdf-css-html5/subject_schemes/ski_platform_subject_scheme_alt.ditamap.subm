@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><subjectScheme xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- map/map subjectScheme/subjectScheme " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map subjectScheme)                            a(props deliveryTarget)                            (topic hazard-d)                            (topic hi-d)                            (topic ut-d)   " processing-role="resource-only" toc="no">
+    <subjectHead class="- map/topicref subjectScheme/subjectHead " linking="normal">
+        <subjectHeadMeta class="- map/topicmeta subjectScheme/subjectHeadMeta ">
+            <navtitle class="- topic/navtitle ">
+                <!-- Enter a description of the subject scheme. -->
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance class="- map/topicref subjectScheme/hasInstance ">
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="skiPlatformKey">
+            <!-- A tree of related values -->
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Alpine_skiing"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Cross_country_skiing">
+                <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Classic"/>
+                <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Skate"/>
+            </subjectdef>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Ski_jumping"/>
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef ">
+        <!-- Bind an attribute to a tree of related values -->
+        <attributedef class="- topic/data subjectScheme/attributedef " name="platform" translate="no"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="skiPlatformKey"/>
+    </enumerationdef>
+</subjectScheme>

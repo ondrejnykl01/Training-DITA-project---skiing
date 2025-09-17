@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Alpine skiing</mainbooktitle>
+    </booktitle>
+    <chapter href="stem_topics/alpine_skiing_stem.dita">
+        <topicref href="topics/ski_slope_concept.dita" audience="Hobby" class="- map/topicref "
+            chunk="to-content">
+            <topicref href="topics/ski_slope_glossary.dita"/>
+        </topicref>
+        <topicref href="../reusables/reusable_whole_topics/how_to_start_skiing.dita"
+            audience="Hobby"/>
+        <topicref href="topics/how_to_improve_your_curving.dita" audience="Experienced Junior"/>
+        <topicref href="topics/differences_between_slalom_and_giant_slalom.dita"
+            audience="Athlete Junior"/>
+        <topicref href="topics/how_to_prepare_for_the_world_cup_season.dita" audience="Senior"/>
+    </chapter>
+</bookmap>
