@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="skate_ski_track_concept">
+    <title>Skate ski track</title>
+    <shortdesc>How the cross country ski track dedicated to skate style looks like and how to use
+        it.</shortdesc>
+    <conbody>
+        <p>Well the skate ski track looks like this:<image placement="break"
+                href="../images/skate_ski_track.jpg" id="image_rwt_ptk_rgc" scale="50"/></p>
+        <p>Nice, isn't it?</p>
+    </conbody>
+</concept>
