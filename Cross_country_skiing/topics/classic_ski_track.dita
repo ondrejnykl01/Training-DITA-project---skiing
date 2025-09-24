@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="classic_ski_track">
+    <title>Classic ski track</title>
+    <shortdesc>How the cross country ski track dedicated to classic style looks like and how to use
+        it. </shortdesc>
+    <conbody>
+        <p>Well, this is how it looks like: <image placement="break"
+                href="../images/classic_ski_track.jpg" id="image_blf_vzj_tgc"/></p>
+        <p>So nice. Nothing like the skater's empty manchestered chaos, no no no, this is straight
+            and sharp as a blade, leading you directly to your target, without letting your body
+            force being distracted to some sides...</p>
+    </conbody>
+</concept>
