@@ -12,5 +12,6 @@
         <topicref href="topics/skate_technique_concept.dita"/>
         <topicref href="topics/how_to_improve_your_slide_classic.dita" platform="Classic"/>
         <topicref href="topics/how_to_improve_your_slide_skate.dita" platform="Skate"/>
+        <topicref href="topics/what_is_cross_country_skiing_about.dita"/>
     </chapter>
 </bookmap>
