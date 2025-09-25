@@ -5,6 +5,7 @@
         <mainbooktitle>Cross country skiing </mainbooktitle>
     </booktitle>
     <chapter href="stem_topics/cross_country_skiing_stem.dita">
+        <topicref href="topics/what_is_cross_country_skiing_about.dita"/>
         <topicref href="../reusables/reusable_whole_topics/how_to_start_skiing.dita"/>
         <topicref href="topics/ski_track_concept.dita">
             <topicref href="topics/skate_ski_track_concept.dita"/>
@@ -12,6 +13,5 @@
         <topicref href="topics/skate_technique_concept.dita"/>
         <topicref href="topics/how_to_improve_your_slide_classic.dita" platform="Classic"/>
         <topicref href="topics/how_to_improve_your_slide_skate.dita" platform="Skate"/>
-        <topicref href="topics/what_is_cross_country_skiing_about.dita"/>
     </chapter>
 </bookmap>
