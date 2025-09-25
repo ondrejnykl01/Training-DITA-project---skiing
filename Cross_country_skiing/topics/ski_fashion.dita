@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ski_fashion">
+    <title>Ski fashion</title>
+    <shortdesc>Our track is our fashion runway, our style is our weapon</shortdesc>
+    <conbody>
+        <p>
+            <image placement="break" href="../images/oldscool_fashion.jpg" id="image_tzy_lhk_tgc"
+                scale="20"/>
+        </p>
+    </conbody>
+</concept>

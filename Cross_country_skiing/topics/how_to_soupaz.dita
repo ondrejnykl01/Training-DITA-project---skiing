@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_soupaz">
+    <title>How to soupaž</title>
+    <shortdesc>Quick step-by-step guidance on how to perform the soupaž subtechnique of  the
+        classical technique</shortdesc>
+    <taskbody>
+        <context>Get your arms ready!<p/></context>
+        <steps>
+            <step>
+                <cmd>Forget those nice words about the importance of continuous rhythm.</cmd>
+            </step>
+            <step>
+                <cmd>Just get your arms side by side, push and, well, go as far as they let
+                    you...</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

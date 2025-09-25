@@ -12,6 +12,10 @@
         </topicref>
         <topicref href="topics/skate_technique_concept.dita"/>
         <topicref href="topics/how_to_improve_your_slide_classic.dita" platform="Classic"/>
+        <topicref href="topics/ski_fashion.dita"/>
         <topicref href="topics/how_to_improve_your_slide_skate.dita" platform="Skate"/>
+        <topicref href="topics/how_to_soupaz.dita">
+            <topicref href="topics/advices_of_standa_rezac.dita"/>
+        </topicref>
     </chapter>
 </bookmap>
