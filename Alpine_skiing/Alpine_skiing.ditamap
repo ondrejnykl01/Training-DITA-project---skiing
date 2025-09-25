@@ -15,6 +15,7 @@
         <topicref href="topics/differences_between_slalom_and_giant_slalom.dita"
             audience="Athlete Junior"/>
         <topicref href="topics/differences_between_giant_slalom_and_super_g.dita"/>
+        <topicref href="topics/differences_between_super_g_and_downhill.dita"/>
         <topicref href="topics/how_to_prepare_for_the_world_cup_season.dita" audience="Senior"/>
     </chapter>
 </bookmap>
