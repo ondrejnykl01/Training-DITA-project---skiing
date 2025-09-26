@@ -4,8 +4,9 @@
     <title>Ski fashion</title>
     <shortdesc>Our track is our fashion runway, our style is our weapon</shortdesc>
     <conbody>
-        <p><image placement="break" href="../images/oldscool_fashion.jpg" id="image_tzy_lhk_tgc"
-                scale="20"/>Well but it also could look like this: <image placement="break"
-                href="../images/swix_ski_fashion.jpg" id="image_xwc_x1s_tgc" scale="40"/></p>
+        <p>
+            <image placement="break" href="../images/oldscool_fashion.jpg" id="image_tzy_lhk_tgc"
+                scale="20"/>
+        </p>
     </conbody>
 </concept>
