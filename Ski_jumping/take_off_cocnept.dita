@@ -4,6 +4,7 @@
     <title>Take-off</title>
     <shortdesc>How to take-off</shortdesc>
     <conbody>
-        <p>As much as you can.</p>
+        <p>As much as you can.<image placement="break" href="images/jump_take_off.png"
+                id="image_nr3_cnz_tgc" scale="60"/></p>
     </conbody>
 </concept>
