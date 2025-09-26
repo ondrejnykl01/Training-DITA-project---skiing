@@ -4,6 +4,7 @@
     <title>Flight</title>
     <shortdesc>How to fly</shortdesc>
     <conbody>
-        <p>Enjoy it.</p>
+        <p>Enjoy it.<image placement="break" href="images/ski_flight.jpg" id="image_lpp_4lz_tgc"
+                scale="150"/></p>
     </conbody>
 </concept>
