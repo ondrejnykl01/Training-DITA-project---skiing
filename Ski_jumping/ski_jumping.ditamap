@@ -7,5 +7,6 @@
     <chapter href="stem_topics/ski_jumping_stem.dita">
         <topicref href="../reusables/reusable_whole_topics/how_to_start_skiing.dita"/>
         <topicref href="ski_jump_concept.dita"/>
+        <topicref href="landing_concept.dita"/>
     </chapter>
 </bookmap>
